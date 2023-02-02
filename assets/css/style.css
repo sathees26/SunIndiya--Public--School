@@ -5,12 +5,12 @@ body {
 }
 
 a {
-  color: #760C0E;
+  color: #851c1e;
   text-decoration: none;
 }
 
 a:hover {
-  color: #760C0E;
+  color: #851c1e;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #760C0E;
+  background: #851c1e;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -150,7 +150,7 @@ h6 {
 */
 .get-started-btn {
   margin-left: 22px;
-  background: #760C0E;
+  background: #851c1e;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px;
@@ -219,7 +219,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .navbar .dropdown ul {
@@ -256,7 +256,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .navbar .dropdown:hover>ul {
@@ -356,7 +356,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .navbar-mobile .getstarted,
@@ -391,7 +391,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -459,8 +459,8 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #760C0E;
-  border: 2px solid #760C0E;
+  background: #851c1e;
+  border: 2px solid #851c1e;
 }
 
 @media (min-width: 1024px) {
@@ -518,7 +518,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #760C0E;
+  background: #851c1e;
   margin: 4px 10px;
 }
 
@@ -535,7 +535,7 @@ section {
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #760C0E;
+  background: #851c1e;
   padding: 30px 0;
   color: #fff;
 }
@@ -576,11 +576,11 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .about .content .learn-more-btn {
-  background: #760C0E;
+  background: #851c1e;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -591,7 +591,7 @@ section {
 }
 
 .about .content .learn-more-btn:hover {
-  background: #760C0E;
+  background: #851c1e;
   color: #fff;
 }
 
@@ -617,7 +617,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #760C0E;
+  color: #851c1e;
   font-weight: 700;
 }
 
@@ -635,7 +635,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #760C0E;
+  background: #851c1e;
   border-radius: 4px;
   color: #fff;
 }
@@ -664,7 +664,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #760C0E;
+  color: #851c1e;
   background: #fff;
 }
 
@@ -679,7 +679,7 @@ section {
 .why-us .icon-boxes .icon-box i {
   font-size: 32px;
   padding: 18px;
-  color: #760C0E;
+  color: #851c1e;
   margin-bottom: 30px;
   background: #ecf9f0;
   border-radius: 50px;
@@ -761,7 +761,7 @@ section {
 }
 
 .courses .course-content h3 a:hover {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .courses .course-content p {
@@ -771,7 +771,7 @@ section {
 
 .courses .course-content h4 {
   font-size: 14px;
-  background: #760C0E;
+  background: #851c1e;
   padding: 7px 14px;
   color: #fff;
   margin: 0;
@@ -853,7 +853,7 @@ section {
 }
 
 .trainers .member .social a:hover {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .trainers .member .social i {
@@ -938,11 +938,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #760C0E;
+  border: 1px solid #851c1e;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #760C0E;
+  background-color: #851c1e;
 }
 
 @media (max-width: 767px) {
@@ -994,7 +994,7 @@ section {
   display: block;
   width: 60px;
   height: 1px;
-  background: #760C0E;
+  background: #851c1e;
   bottom: 0;
   left: 0;
 }
@@ -1045,12 +1045,12 @@ section {
 }
 
 .cource-details-tabs .nav-link:hover {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .cource-details-tabs .nav-link.active {
-  color: #760C0E;
-  border-color: #760C0E;
+  color: #851c1e;
+  border-color: #851c1e;
 }
 
 .cource-details-tabs .tab-pane.active {
@@ -1081,7 +1081,7 @@ section {
 
   .cource-details-tabs .nav-link.active {
     color: #fff;
-    background: #760C0E;
+    background: #851c1e;
   }
 }
 
@@ -1142,7 +1142,7 @@ section {
 }
 
 .events .read-more a:hover {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 .events .card:hover img {
@@ -1150,11 +1150,11 @@ section {
 }
 
 .events .card:hover .card-body {
-  border-color: #760C0E;
+  border-color: #851c1e;
 }
 
 .events .card:hover .card-body .card-title a {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 /*--------------------------------------------------------------
@@ -1281,7 +1281,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #760C0E;
+  color: #851c1e;
   float: left;
   width: 44px;
   height: 44px;
@@ -1316,7 +1316,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #760C0E;
+  background: #851c1e;
   color: #fff;
 }
 
@@ -1345,7 +1345,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #760C0E;
+  background: #851c1e;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1365,7 +1365,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #760C0E;
+  border: 3px solid #851c1e;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1380,7 +1380,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #760C0E;
+  border-color: #851c1e;
 }
 
 .contact .php-email-form input {
@@ -1392,7 +1392,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #760C0E;
+  background: #851c1e;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1401,7 +1401,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #760C0E;
+  background: #851c1e;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1478,7 +1478,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #760C0E;
+  color: #851c1e;
   font-size: 18px;
   line-height: 1;
 }
@@ -1502,7 +1502,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #760C0E;
+  color: #851c1e;
 }
 
 #footer .footer-newsletter {
@@ -1542,7 +1542,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background:  #760C0E;
+  background:  #851c1e;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1550,7 +1550,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #760C0E
+  background: #851c1e
 }
 
 #footer .credits {
@@ -1559,18 +1559,18 @@ section {
 }
 
 #footer .credits a {
-  color: #760C0E;
+  color: #851c1e;
   transition: 0.3s;
 }
 
 #footer .credits a:hover {
-  color: #760C0E;
+  color: #851c1e;
 }
 
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #760C0E;
+  background: #851c1e;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1599,7 +1599,7 @@ section {
   border-color: #fff !important;
 }
 hr.hr-primary {
-  border-top-color: #760C0E!important;
+  border-top-color: #851c1e!important;
 }
 em {
   font-style: italic;
@@ -1660,7 +1660,7 @@ em {
   color: #fff;
   position: relative;
   z-index: 99;
-  background: #760C0E;
+  background: #851c1e;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -1728,7 +1728,7 @@ em {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #760C0E;
+  background-color: #851c1e;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -1823,5 +1823,12 @@ em {
 }
 /* facilities */
 
+/* Admission Form button */
+.button{
+  background-color:#851c1e;
+  color: white;
+  border: none;
+}
+/* Admission Form button */
 
 
