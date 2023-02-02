@@ -1829,6 +1829,11 @@ em {
   color: white;
   border: none;
 }
+.button:hover{
+  background-color:#851c1e;
+  color: white;
+  border: none;
+}
 /* Admission Form button */
 
 
